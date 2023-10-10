@@ -1,0 +1,8 @@
+INSERT INTO master.dbo.breedLookup (id, breed)
+VALUES (1, 'Am Bulldog')
+INSERT INTO master.dbo.breedLookup (id, breed)
+VALUES (2, 'Blue Tick')
+INSERT INTO master.dbo.breedLookup (id, breed)
+VALUES (3, 'Labrador')
+INSERT INTO master.dbo.breedLookup (id, breed)
+VALUES (4, 'Gr Shepard')

@@ -1,0 +1,8 @@
+INSERT INTO master.dbo.colorLookup (id, color)
+VALUES (1, 'White')
+INSERT INTO master.dbo.colorLookup (id, color)
+VALUES (2, 'Grey')
+INSERT INTO master.dbo.colorLookup (id, color)
+VALUES (3, 'Black')
+INSERT INTO master.dbo.colorLookup (id, color)
+VALUES (4, 'Brown')
